@@ -29,7 +29,7 @@ __LINK:__
 
 ## TASK 8: Tinkercad
 To learn how different electronic components work and how they are used, we made an oblect sensor using  simple circuit using an ultrasonic sensor and servo motor to estimate the distance between an obstacle and the sensor.This helped to find many components and learn what they are used for.
-![sensor](sensor.mp4)
+![sensor](sensor.jpg)
 
 ## TASK 9: Speed Control of DC Motor
 Through this task I understood the control of DC motors using the L298N motor driver and the Arduino board. This was great experience as I learned about how an Arduino board functions.Implemented speed control using pulse-width modulation (PWM) to regulate motor speed and Enhanced motor control by incorporating additional features like direction control or closed-loop control.
