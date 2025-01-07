@@ -1,7 +1,6 @@
 # Monika R-Level 1 Report 
 ## Task 1:API
-Having interest in cooking something good and loving to eat things that taste great,I know how difficult it gets to think of what to cook with the available ingredients.
-Using Spoonacular API,built an web page.Through this journey of building the page I learnt about API,how it works,what is it's use and importance
+Having interest in cooking something good and loving to eat things that taste great,I know how difficult it gets to think of what to cook with the available ingredients.Using Spoonacular API,built an web page.Through this journey of building the page I learnt about API,how it works,what is it's use and importance
 __LINK:__ https://monikargowda.github.io/foodapi/ 
 ![what to cook](api.png)
 
@@ -22,11 +21,11 @@ Plotting graphs manually were hassle.Having found a new way to plot them I creat
 
 ## TASK 6: Create a Portfolio Webpage
 Presenting myself through a web page to show the skills I have learned and the projects I have done so far was a nice way to learn how to use and build the front end of any page.Using HTML and CSS 
-** LINK: **
+__LINK:__
 
 ## TASK 7: Writing Resource Article using Markdown
 To be able to edit and present the reports,articles and any write downs in a very presentable ad organised manner by a code is a easier way of writing.This helped in understanding markdown and it's features in a better way.
-** LINK: **
+__LINK:__
 
 ## TASK 8: Tinkercad
 To learn how different electronic components work and how they are used, we made an oblect sensor using  simple circuit using an ultrasonic sensor and servo motor to estimate the distance between an obstacle and the sensor.This helped to find many components and learn what they are used for.
@@ -58,7 +57,7 @@ Took part in the Kagada 20- a Technical student conference conducted by IEEE UVC
 
 ## TASK 15: Datasheets report writing:
 For writing down a report on datasheets seemed to be a difficult task,but once after understanding aout the MQ135 Gas sensor and knowing how markdown could simplify report writing, it made it easy and interesting to know about MQ135 Gas sensor and write down the report.
-** LINK: **
+__LINK:__
 
 ## TASK 16: Sad servers - "Like LeetCode for Linux":
 Learning about command prompts was a very interesting and intriguing thing to do.This was a fun way to learn about the commands.This made me more curious about the different commands that are present,which makes me want to explore more about them.
