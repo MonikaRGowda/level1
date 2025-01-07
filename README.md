@@ -57,7 +57,7 @@ Took part in the Kagada 20- a Technical student conference conducted by IEEE UVC
 
 ## TASK 15: Datasheets report writing:
 For writing down a report on datasheets seemed to be a difficult task,but once after understanding aout the MQ135 Gas sensor and knowing how markdown could simplify report writing, it made it easy and interesting to know about MQ135 Gas sensor and write down the report.
-__LINK:__
+__LINK:__ https://github.com/MonikaRGowda/MQ135-Gas-sensor
 
 ## TASK 16: Sad servers - "Like LeetCode for Linux":
 Learning about command prompts was a very interesting and intriguing thing to do.This was a fun way to learn about the commands.This made me more curious about the different commands that are present,which makes me want to explore more about them.
