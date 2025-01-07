@@ -21,11 +21,11 @@ Plotting graphs manually were hassle.Having found a new way to plot them I creat
 
 ## TASK 6: Create a Portfolio Webpage
 Presenting myself through a web page to show the skills I have learned and the projects I have done so far was a nice way to learn how to use and build the front end of any page.Using HTML and CSS 
-__LINK:__
+__LINK:__ https://monikargowda.github.io/MonikaRGowda/
 
 ## TASK 7: Writing Resource Article using Markdown
 To be able to edit and present the reports,articles and any write downs in a very presentable ad organised manner by a code is a easier way of writing.This helped in understanding markdown and it's features in a better way.
-__LINK:__
+__LINK:__ https://github.com/MonikaRGowda/neuromorphic
 
 ## TASK 8: Tinkercad
 To learn how different electronic components work and how they are used, we made an oblect sensor using  simple circuit using an ultrasonic sensor and servo motor to estimate the distance between an obstacle and the sensor.This helped to find many components and learn what they are used for.
