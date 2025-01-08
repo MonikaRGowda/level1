@@ -55,7 +55,7 @@ In this task, I designed an alarm system that activates when a door is unlocked 
 
 ## TASK 14: Active Participation:
 Took part in the Kagada 20- a Technical student conference conducted by IEEE UVCE.Participated in poster presentation competation ,presenting a poster on Microbots in Neurosurgery,which is a potential takeover that could happen in the field of neurosurgery.This helped me in doing research over one of the newest and intriguing technology that has arrived.
-![particification certificate](certificate.jpg)
+![certificate.jpg](https://github.com/MonikaRGowda/level1/blob/main/certificate.jpg)
 
 ## TASK 15: Datasheets report writing:
 For writing down a report on datasheets seemed to be a difficult task,but once after understanding aout the MQ135 Gas sensor and knowing how markdown could simplify report writing, it made it easy and interesting to know about MQ135 Gas sensor and write down the report.
