@@ -67,13 +67,15 @@ In this task, I designed an alarm system that activates when a door is unlocked 
 
 ## TASK 14: Active Participation:
 Took part in the Kagada 20- a Technical student conference conducted by IEEE UVCE.Participated in poster presentation competation ,presenting a poster on Microbots in Neurosurgery,which is a potential takeover that could happen in the field of neurosurgery.This helped me in doing research over one of the newest and intriguing technology that has arrived.
-![image](https://github.com/user-attachments/assets/268ae9d8-6583-42a7-bc50-68c4105677e3)
+![image](https://github.com/user-attachments/assets/9b66d371-954c-4715-a83b-a81498d9558f)
+
 
 ## TASK 15: Datasheets report writing:
 For writing down a report on datasheets seemed to be a difficult task,but once after understanding aout the MQ135 Gas sensor and knowing how markdown could simplify report writing, it made it easy and interesting to know about MQ135 Gas sensor and write down the report.
-  __LINK:__ https://github.com/MonikaRGowda/MQ135-Gas-sensor
-![image](https://github.com/user-attachments/assets/0b117fa5-f764-43db-adcf-ed9157d564a0)
+   __LINK:__ https://github.com/MonikaRGowda/MQ135-Gas-sensor
+![image](https://github.com/user-attachments/assets/268ae9d8-6583-42a7-bc50-68c4105677e3)
 
 
 ## TASK 16: Sad servers - "Like LeetCode for Linux":
 Learning about command prompts was a very interesting and intriguing thing to do.This was a fun way to learn about the commands.This made me more curious about the different commands that are present,which makes me want to explore more about them.
+![image](https://github.com/user-attachments/assets/0b117fa5-f764-43db-adcf-ed9157d564a0)
