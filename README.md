@@ -2,7 +2,8 @@
 ## Task 1:API
 Having interest in cooking something good and loving to eat things that taste great,I know how difficult it gets to think of what to cook with the available ingredients.Using Spoonacular API,built an web page.Through this journey of building the page I learnt about API,how it works,what is it's use and importance
 __LINK:__ https://monikargowda.github.io/foodapi/ 
-![what to cook](https://github.com/MonikaRGowda/level1/blob/main/api.png)
+![image](https://github.com/user-attachments/assets/99976f85-55bb-4ac6-b4aa-8759eb76f9e7)
+
 
 ## TASK 2: Working with Github
 This helped to understand and to explore the github features which would help in the long run.Solving problems in code, cloning and forking repositories and other basics were learnt.
