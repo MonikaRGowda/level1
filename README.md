@@ -47,7 +47,8 @@ This task helped in learning about soldering.Soldered an LED and resistor to the
 
 ## TASK 12:555 Astable Multivibrator
 Through this task, I designed a 555 astable multivibrator with a duty cycle of 60%. Duty cycle refers to the proportion of time the output signal is in the high state compared to the total period of the signal.This involved selecting appropriate resistor and capacitor values, setting up the circuit on a breadboard, and observing the output waveform using a Digital Storage Oscilloscope (DSO).
-![555 vibrator](https://github.com/MonikaRGowda/level1/blob/main/555.jpeg)
+![image](https://github.com/user-attachments/assets/7ee65046-b81e-4ed0-bc10-80a1fa6cd62f)
+
 
 ## TASK 13: Karnaugh Maps and Deriving the logic circuit
 In this task, I designed an alarm system that activates when a door is unlocked without pressing the key i.e., for the 1 (Door) 0 (Key) condition. By simplifying the logic with a K-map, the final expression was Door AND (Key)', which I implemented using a slide switch, an alarm or LED, and a combination of NOT and AND gates.Karnaugh maps (K-maps) are a useful tool for simplifying Boolean algebra expressions.
